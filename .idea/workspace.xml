@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fb0bdb8a-a7b2-4eb5-b2b4-b9d3492dfb37" name="Changes" comment="Init Commit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/cirilgroup/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/cirilgroup/model/Adventurer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/cirilgroup/model/Plan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/cirilgroup/model/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/cirilgroup/repository/AdventurerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/cirilgroup/repository/PlanRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/cirilgroup/service/AdventurerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/cirilgroup/service/IAdventurerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/cirilgroup/service/IPlanService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/cirilgroup/service/PlanService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/aventurier.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/carte.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/AdventurerIntegrationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/serviceTest/AdventurerServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/serviceTest/PlanServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/aventurier_test1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/aventurier_test2.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2VlHP5mTdBCY0m2w5qqt3h8J0XO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/infos/Documents/entretiens/andre-sarah-adventurer/src/test/resources",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\infos\Documents\entretiens\andre-sarah-adventurer\src\test\resources" />
+      <recent name="C:\Users\infos\Documents\entretiens\andre-sarah-adventurer\src\test\ressources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\infos\Documents\entretiens\andre-sarah-adventurer\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in adventurer">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.cirilgroup.Main" />
+      <module name="adventurer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.cirilgroup.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdventurerIntegrationTest.AdventurerMovesWithObstaclesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="adventurer" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AdventurerIntegrationTest" />
+      <option name="METHOD_NAME" value="AdventurerMovesWithObstaclesTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdventurerIntegrationTest.testAdventurerMovementOnMap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="adventurer" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AdventurerIntegrationTest" />
+      <option name="METHOD_NAME" value="testAdventurerMovementOnMap" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in adventurer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="adventurer" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="adventurer-1.0-SNAPSHOT.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/adventurer-1.0-SNAPSHOT.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in adventurer" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JAR Application.adventurer-1.0-SNAPSHOT.jar" />
+        <item itemvalue="JUnit.AdventurerIntegrationTest.AdventurerMovesWithObstaclesTest" />
+        <item itemvalue="JUnit.AdventurerIntegrationTest.testAdventurerMovementOnMap" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb0bdb8a-a7b2-4eb5-b2b4-b9d3492dfb37" name="Changes" comment="" />
+      <created>1695403726302</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695403726302</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Init Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init Commit" />
+  </component>
+</project>
