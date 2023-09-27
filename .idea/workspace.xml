@@ -5,31 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb0bdb8a-a7b2-4eb5-b2b4-b9d3492dfb37" name="Changes" comment="Init Commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/cirilgroup/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/cirilgroup/model/Adventurer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/cirilgroup/model/Plan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/cirilgroup/model/Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/cirilgroup/repository/AdventurerRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/cirilgroup/repository/PlanRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/cirilgroup/service/AdventurerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/cirilgroup/service/IAdventurerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/cirilgroup/service/IPlanService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/cirilgroup/service/PlanService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/aventurier.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/carte.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/AdventurerIntegrationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/serviceTest/AdventurerServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/serviceTest/PlanServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/aventurier_test1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/aventurier_test2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +124,26 @@
       <option name="presentableId" value="Default" />
       <updated>1695403726302</updated>
     </task>
+    <task id="LOCAL-00001" summary="Init Commit">
+      <created>1695799448188</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695799448188</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init Commit" />

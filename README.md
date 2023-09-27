@@ -22,7 +22,7 @@ Running the Program:
 Execute the Program :
 1. Navigate to the jar directory.(By default, it will be in the target folder)
 2. Make sure you have a file.txt with the adventurer coordinates and direction. 
-3. Run the following command to execute the program `java -jar aventurer-1.0.jar aventurier.txt`
+3. Run the following command to execute the program `java -jar adventurer-1.0.jar aventurier.txt`
 
 Results:
 The program will display the final coordinates of the character after its movements.
@@ -43,7 +43,7 @@ Here is an example of an input file with the initial coordinates of the characte
 SSSSEEEEEENN
 ```
 
-By default, you can find the aventurier.txt in the same folder as the jar. 
+By default, you can find the aventurier.txt on the root foolder.
 
 ## Testing
 
