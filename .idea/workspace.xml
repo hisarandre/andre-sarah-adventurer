@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb0bdb8a-a7b2-4eb5-b2b4-b9d3492dfb37" name="Changes" comment="Init Commit">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="fb0bdb8a-a7b2-4eb5-b2b4-b9d3492dfb37" name="Changes" comment="Fix typo in README.md and add example of input file">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +57,7 @@
       <recent name="C:\Users\infos\Documents\entretiens\andre-sarah-adventurer\src\test\ressources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\infos\Documents\entretiens\andre-sarah-adventurer" />
       <recent name="C:\Users\infos\Documents\entretiens\andre-sarah-adventurer\src\main\resources" />
     </key>
   </component>
@@ -131,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695799448188</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Fix typo in README.md and add example of input file">
+      <created>1695800472648</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695800472648</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -147,6 +156,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init Commit" />
+    <MESSAGE value="Fix typo in README.md and add example of input file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix typo in README.md and add example of input file" />
   </component>
 </project>
